@@ -1,0 +1,6 @@
+{
+    "editor.tabSize": 2,
+    "mocha-snippets.semicolon": false,
+    "mocha-snippets.function-type": "function",
+    "mocha-snippets.quote-type": "single"
+}

@@ -1,0 +1,5 @@
+{
+  "ip": "127.0.0.1",
+  "appiumPath": "~/.nvm/versions/node/v11.3.0/lib/node_modules/appium/build/lib/main.js",
+  "nodePath": "~/.nvm/versions/node/v11.3.0/bin/node"
+}
